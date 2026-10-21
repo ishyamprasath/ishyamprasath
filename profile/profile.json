@@ -1,0 +1,48 @@
+{
+  "username": "ishyamprasath",
+  "name": "Shyam Prasath S",
+  "projects": [
+    {
+      "name": "Nexaride",
+      "category": "01 / SHIPPED MOBILE APPS",
+      "lines": ["Cross-platform ride-hailing with live GPS", "tracking and driver-rider matching."],
+      "stack": "React Native / AWS",
+      "context": "Dendo · Google Play + Apple App Store"
+    },
+    {
+      "name": "ROVE-KIN",
+      "category": "02 / MOBILITY + AI",
+      "lines": ["Rider safety through live telemetry,", "hazard alerts, and an LLM voice assistant."],
+      "stack": "FastAPI / React / GenAI / Edge AI",
+      "context": "TVS Digital · TVS Motor"
+    },
+    {
+      "name": "XRPLOT-AI",
+      "category": "03 / SPATIAL INTELLIGENCE",
+      "lines": ["360° environments with spatial AI,", "voice interaction, and a node-based canvas."],
+      "stack": "Next.js / FastAPI / Google ADK",
+      "context": "TVS Digital · CSC Impact Honorable Mention"
+    },
+    {
+      "name": "THOR",
+      "category": "04 / TOURISM + SAFETY",
+      "lines": ["AI trip planning, risk-zone maps, SOS,", "and a multilingual travel companion."],
+      "stack": "AI / Live Safety Maps / Voice Assistant",
+      "context": "thor-guard-of-tourism.vercel.app"
+    },
+    {
+      "name": "Object Surveillance Robot",
+      "category": "05 / AUTONOMOUS ROBOTICS",
+      "lines": ["Live detection, autonomous navigation,", "and an LLM conversational interface."],
+      "stack": "ROS 2 Jazzy / FastAPI / Computer Vision",
+      "context": "Techobytes × eDC IIT Delhi · Chennai"
+    },
+    {
+      "name": "FabPal",
+      "category": "06 / INTELLIGENT HARDWARE",
+      "lines": ["A thermal digital twin that adjusts fabric", "temperature and sends timely alerts."],
+      "stack": "Thermal Digital Twin / IoT / Mobile",
+      "context": "AI IGNITE · Consolation prize · ₹10,000"
+    }
+  ]
+}
